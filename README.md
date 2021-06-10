@@ -11,3 +11,10 @@ This is a typing tutor in C
 ### Note
 
 ### Issues
+
+### Resources
+*  [curses.h documentation github](https://github.com/D-Programming-Deimos/ncurses)
+*  [curses.h documentation website](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/scanw.html#GETCHCLASS)
+*  [getch documentation](https://pubs.opengroup.org/onlinepubs/7908799/xcurses/getch.html)
+*  [color modification](https://www.theurbanpenguin.com/4184-2/)
+*  [typing tutor referance](https://www.codewithc.com/typing-tutor-project-in-c/#:~:text=This%20is%20a%20simple%20console,the%20function%20of%20each%20command.)
