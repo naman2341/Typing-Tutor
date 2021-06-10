@@ -1,4 +1,4 @@
-# Adventure-game
+# Typing-Tutor
 This is a typing tutor in C
 
 ### Header file used
