@@ -2,6 +2,7 @@
 This is a typing tutor in C
 
 ### Header file used
+* stdio.h
 * conio.h
 <!-- *  [curses.h](https://e-l.unifi.it/pluginfile.php/805205/mod_resource/content/0/ncurses%20installation%20-%20en.pdf/ "curses.h")-->
 ### Links
