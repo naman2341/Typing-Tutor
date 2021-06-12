@@ -27,6 +27,7 @@ This is a typing tutor in C
 *  [typing.com](typing.com)
 *  [Monkey Type](monkeytype.com)
 * <a href="https://stackoverflow.com/questions/29574849/how-to-change-text-color-and-console-color-in-codeblocks#30144132">rlutil stackoverflow</a>
+* [rlutil documentation](http://tapiov.net/rlutil/docs/HTML/files/rlutil-h.html#rlutil.getkey)
 ---
 #### Work split up
 ##### Naman Choudhary
