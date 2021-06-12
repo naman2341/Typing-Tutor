@@ -4,6 +4,7 @@ This is a typing tutor in C
 ### Header file used
 * stdio.h
 * conio.h
+* <a href="http://tapiov.net/rlutil/">rlutil</a>
 <!-- *  [curses.h](https://e-l.unifi.it/pluginfile.php/805205/mod_resource/content/0/ncurses%20installation%20-%20en.pdf/ "curses.h")-->
 ### Links
 *  [Basic Modifications](https://guides.github.com/features/mastering-markdown/ "Basic Modifications")
@@ -22,6 +23,7 @@ This is a typing tutor in C
 *  [typing tutor referance](https://www.codewithc.com/typing-tutor-project-in-c/#:~:text=This%20is%20a%20simple%20console,the%20function%20of%20each%20command.)
 *  [typing.com](typing.com)
 *  [Monkey Type](monkeytype.com)
+* <a href="https://stackoverflow.com/questions/29574849/how-to-change-text-color-and-console-color-in-codeblocks#30144132">rlutil stackoverflow</a>
 ---
 #### Work split up
 ##### Naman Choudhary
