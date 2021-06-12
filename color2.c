@@ -5,11 +5,12 @@
 void input()
 {
 	char s[1000]="This is a test sentence",e[1000];
-	char c=65;
+	char c=217;
 	int length=strlen(s),i,error=0,flag=0;
 	s[length]=c;
 	length++;
 	printf("%s",s);
+	s[length-1]=13;
 	for(int i=0;i<=length-1;i++)
 		printf("\b");
 	for(i=0;i<length;i++)
@@ -54,4 +55,4 @@ int main()
 	return 0;
 }
 
-//enter key,last character
+//enter key-188,217,
