@@ -16,6 +16,11 @@ void input()
 	{
 		flag=0;
 		e[i]=getch();
+		if(s[i+1]=='\0' && e[i]!=s[i])
+		{
+			i--;
+			continue;
+		}
 		if((int)(e[i])==8)
 		{
 			setColor(WHITE);
@@ -39,7 +44,7 @@ void input()
 		setColor(WHITE);
 	}
 	e[i]='\0';
-	printf("error %d",error);
+	printf("\nError: %d",error);
 	//printf("\n\n%s\n",e);
 }
 int main()
@@ -49,4 +54,4 @@ int main()
 	return 0;
 }
 
-//Space bar,enter key,last character
+//enter key,last character
