@@ -12,7 +12,10 @@ This is a typing tutor in C
 *  [Google Docs](https://docs.google.com/document/d/1LG9QgsERu3FX1MEPU6KNGssyabrC_NUejwgBdaTpONY/edit?usp=sharing)
 
 ### Note
-
+```C
+#include "rlutil.h"
+//Include it to your files
+```
 ### Issues
 
 ### Resources
