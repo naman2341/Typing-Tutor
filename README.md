@@ -17,7 +17,7 @@ This is a typing tutor in C
 //Include it to your files
 ```
 ### Issues
-
+* To show error, should i take my approach or typing.com approach?, and how
 ### Resources
 <!-- *  [curses.h documentation github](https://github.com/D-Programming-Deimos/ncurses)
  *  [curses.h documentation website](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/scanw.html#GETCHCLASS)-->
