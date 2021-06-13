@@ -16,6 +16,17 @@ This is a typing tutor in C
 #include "rlutil.h"
 //Include it to your files
 ```
+### ASCII
+1. Enter
+
+* MAC-10
+* WIN-13
+
+2. Backspace
+
+* MAC-127
+* WIN-8
+
 ### Issues
 * To show error, should i take my approach or typing.com approach?, and how
 ### Resources
