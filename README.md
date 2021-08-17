@@ -61,4 +61,6 @@ This is a typing tutor in C
 * Integration
 * Typing test 
 * Mistake Keys
+* Add Lines about the Tutorial part
+* PRESENTATION
 ---
