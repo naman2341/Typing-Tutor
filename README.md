@@ -57,3 +57,8 @@ This is a typing tutor in C
 * **Error%:** Accuracy
 * [**Star System**](typing.com)
 ---
+### To Be Done
+* Integration
+* Typing test 
+* Mistake Keys
+---
