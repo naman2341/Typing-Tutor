@@ -35,8 +35,8 @@ This is a typing tutor in C
 *  [getch documentation](https://pubs.opengroup.org/onlinepubs/7908799/xcurses/getch.html)
 *  [color modification](https://www.theurbanpenguin.com/4184-2/)
 *  [typing tutor referance](https://www.codewithc.com/typing-tutor-project-in-c/#:~:text=This%20is%20a%20simple%20console,the%20function%20of%20each%20command.)
-*  [typing.com](typing.com)
-*  [Monkey Type](monkeytype.com)
+*  [typing.com](https://typing.com)
+*  [Monkey Type](https://monkeytype.com)
 * <a href="https://stackoverflow.com/questions/29574849/how-to-change-text-color-and-console-color-in-codeblocks#30144132">rlutil stackoverflow</a>
 * [rlutil documentation](http://tapiov.net/rlutil/docs/HTML/files/rlutil-h.html#rlutil.getkey)
 ---
@@ -55,7 +55,7 @@ This is a typing tutor in C
 ---
 ##### N Charitha
 * **Error%:** Accuracy
-* [**Star System**](www.typing.com)
+* [**Star System**](https://www.typing.com)
 ---
 ### To Be Done
 * Integration
