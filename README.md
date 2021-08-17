@@ -55,7 +55,7 @@ This is a typing tutor in C
 ---
 ##### N Charitha
 * **Error%:** Accuracy
-* [**Star System**](typing.com)
+* [**Star System**](www.typing.com)
 ---
 ### To Be Done
 * Integration
