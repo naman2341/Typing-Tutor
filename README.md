@@ -39,28 +39,4 @@ This is a typing tutor in C
 *  [Monkey Type](https://monkeytype.com)
 * <a href="https://stackoverflow.com/questions/29574849/how-to-change-text-color-and-console-color-in-codeblocks#30144132">rlutil stackoverflow</a>
 * [rlutil documentation](http://tapiov.net/rlutil/docs/HTML/files/rlutil-h.html#rlutil.getkey)
----
-#### Work split up
-##### Naman Choudhary
-* **Seemless Input:**  makes the user feel like the input is being taken and processed immediately at the press of each keystroke, highlighted by the change in colour of the character.
-* Taking the input from the user without the use of enter key
-* **Color:** The color of the text changes if there is any mistake done by the user or if the key is pressed correctly
----
-##### Nandan H
-* **Main body/Test part:**  Implementation of Typing Test with the options of 1,2 and 5 mins tests.
----
-##### Naman Pande
-* **WPM:** Typing Speed
-* **Time Spent:** On each lesson 
----
-##### N Charitha
-* **Error%:** Accuracy
-* [**Star System**](https://www.typing.com)
----
-### To Be Done
-* Integration
-* Typing test 
-* Mistake Keys
-* Add Lines about the Tutorial part
-* PRESENTATION
----
+
